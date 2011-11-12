@@ -1,0 +1,1 @@
+This plugin inserts a colorbox (Similar to a lightbox) in tidypcs pictures and slideshows
