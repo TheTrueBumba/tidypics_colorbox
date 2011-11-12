@@ -1,0 +1,14 @@
+
+.tidypics_colorbox_wrapper {
+float: left;
+width: 169px;
+margin-bottom: 10px;
+}
+
+.tidypics_colorbox_title {
+float: left;
+width: 100%;
+text-align: center;
+height: 20px;
+overflow: hidden;
+}
