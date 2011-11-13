@@ -1,6 +1,6 @@
 <?php
 $portugues_brasileiro = array (
-	'tidypics_colorbox:currentimage' => 'imagem {current} de {total}',
+	'tidypics_colorbox:currentimage' => '{current} de {total}',
 	'tidypics_colorbox:previous' => 'anterior',
 	'tidypics_colorbox:next' => 'próxima',
 	'tidypics_colorbox:close' => 'fechar',
